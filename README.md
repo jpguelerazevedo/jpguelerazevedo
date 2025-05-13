@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello, I'm João Paulo Azevedo
 
-<!--
-**jpguelerazevedo/jpguelerazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a degree in Information Systems at the Federal Institute of Espírito Santo (IFES).
 
-Here are some ideas to get you started:
+🧠 I'm working on a personal project involving Natural Language Processing (NLP), focusing on developing intelligent solutions that bridge the gap between human language and machine understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+
+Languages: Python, JavaScript, C
+
+Web Development: HTML, CSS, Bootstrap
+
+Frameworks, Libraries & Tools: Node.js, React, Electron
+
+Databases: PostgreSQL
+
+🌐 Languages
+
+Portuguese 🇧🇷 (Native)
+
+English 🇺🇸 (Fluent)
