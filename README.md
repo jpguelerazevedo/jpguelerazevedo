@@ -1,4 +1,4 @@
-Hello, I'm João Paulo Azevedo
+👋 Hello, I'm João Paulo Azevedo
 
 🎓 I'm currently pursuing a degree in Information Systems at the Federal Institute of Espírito Santo (IFES).
 
