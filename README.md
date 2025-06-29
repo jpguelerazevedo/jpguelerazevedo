@@ -12,7 +12,7 @@ Web Development: HTML, CSS, Bootstrap
 
 Frameworks, Libraries & Tools: Node.js, React, Electron
 
-Databases: PostgreSQL
+Databases: SQLite, PostgreSQL
 
 🌐 Languages:
 
