@@ -18,4 +18,4 @@ Databases: SQLite, PostgreSQL
 
 Portuguese 🇧🇷 (Native)
 
-English 🇺🇸 (Fluent)
+English 🇺🇸 (Intermediary)
