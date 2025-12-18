@@ -10,7 +10,7 @@ Languages: Python, JavaScript, C, PHP
 
 Web Development: HTML, CSS, Bootstrap
 
-Frameworks, Libraries & Tools: Node.js, React, Electron
+Frameworks, Libraries & Tools: Node.js, React, Electron, Docker
 
 Databases: SQLite, PostgreSQL
 
