@@ -1,8 +1,8 @@
 👋 Hello, I'm João Paulo Azevedo
 
-🎓 I'm currently pursuing a degree in Information Systems at the Federal Institute of Espírito Santo (IFES).
+🎓 I graduated in Information Systems at the Federal Institute of Espírito Santo (IFES).
 
-🧠 Currently, I'm working on a personal project focused on developing intelligent solutions based on RAG (Retrieval Augmented Generation).
+🧠 My studies and projects are currently focused on Artificial Intelligence and Automations, developing intelligent solutions to optimize processes.
 
 🛠️ Skills & Technologies:
 
