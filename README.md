@@ -6,7 +6,7 @@ Languages: Python, JavaScript, PHP.
 
 Frontend: HTML, CSS, React.
 
-Backend & DB: Node.js, PostgreSQL, Docker.
+Backend & DB: Node.js, PostgreSQL.
 
 Infra: Linux, Docker, Windows.
 
