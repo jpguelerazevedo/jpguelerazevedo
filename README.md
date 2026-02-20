@@ -10,7 +10,7 @@ Backend & DB: Node.js, PostgreSQL.
 
 Infra: Linux, Docker, Windows.
 
-Languages: Portuguese (Native), English (Intermediary)
+Languages: Portuguese (Native), English (Intermediary).
 
 <div align="center">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
