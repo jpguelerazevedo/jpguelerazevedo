@@ -25,8 +25,6 @@
     <br>
     languages:<br>
     > pt-br, en-us.
-    <br>
-    <br>
     <!--socials:<br>
     > <a href="https://www.linkedin.com/in/jpguelerazevedo/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/joaopaulog_a/" target="_blank">instagram</a>.
   </samp>
