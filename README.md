@@ -27,10 +27,10 @@
     > pt-br, en-us.
     <br>
     <br>
-    socials:<br>
+    <!--socials:<br>
     > <a href="https://www.linkedin.com/in/jpguelerazevedo/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/joaopaulog_a/" target="_blank">instagram</a>.
   </samp>
-  <!--<div align="center">
+  <div align="center">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
