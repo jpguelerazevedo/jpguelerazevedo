@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/city.jpeg" align="left" width="450" height="630" style="margin-right: 20px;">
+  <img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/city.jpeg" align="left" width="450" height="600" style="margin-right: 20px; object-fit: cover;">
   <samp>
     hello, i'm joão paulo azevedo
     <br>
