@@ -1,8 +1,6 @@
-<img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/robots.png" align="left" width="100%" height="570" style="margin-bottom: 20px;">
+<img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/robots.png" width="100%">
 <p float="left">
   <samp>
-    <br>
-    <br>
     Hello, i'm joão paulo azevedo
     <br>
     <br>
