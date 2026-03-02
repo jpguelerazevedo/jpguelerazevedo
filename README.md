@@ -1,10 +1,12 @@
+<img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/robots.png" align="left" width="100%" height="570" style="margin-bottom: 20px;">
 <p float="left">
-  <img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/city.jpeg" align="left" width="450" height="570" style="margin-right: 20px;">
   <samp>
-    hello, i'm joão paulo azevedo
     <br>
     <br>
-    i graduated in information systems at the federal institute of espírito santo (ifes). my studies and projects are currently focused on artificial intelligence and automations, developing intelligent solutions to optimize processes. 
+    Hello, i'm joão paulo azevedo
+    <br>
+    <br>
+    I graduated in information systems at the federal institute of espírito santo (ifes). My studies and projects are currently focused on artificial intelligence and automations, developing intelligent solutions to optimize processes. 
     <br>
     <br>
     [ langs ]<br>
