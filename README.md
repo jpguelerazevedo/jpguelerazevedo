@@ -1,4 +1,4 @@
-<img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/robots.png" width="100%">
+<img src="https://github.com/jpguelerazevedo/jpguelerazevedo/blob/main/pingu2.png" width="100%">
 <p float="left">
   <samp>
     Hello, i'm joão paulo azevedo
